@@ -22,7 +22,7 @@ const countdownElements = {
 const copyBtns = document.querySelectorAll('.copy-btn');
 
 // Event Date
-const weddingDate = new Date('December 25, 2025 08:00:00').getTime();
+const weddingDate = new Date('July 15, 2026 08:00:00').getTime();
 
 // Get guest name from URL query parameter
 function getGuestName() {

@@ -241,7 +241,7 @@ img {
     width: 150px;
     height: 150px;
     margin: 1rem auto;
-    background-image: url('https://i.pinimg.com/474x/f7/fd/92/f7fd925da1739bc5f6b43562f7c2f473.jpg');
+    background-image: url('home.jpg');
     background-size: cover;
     background-position: center;
     border-radius: 50%;
@@ -329,11 +329,11 @@ img {
 }
 
 .groom-img {
-    background-image: url('https://i.pinimg.com/474x/fd/f2/8e/fdf28ec8e4ec37f4af7e581c2499b9ee.jpg');
+    background-image: url('pria.jpg');
 }
 
 .bride-img {
-    background-image: url('https://i.pinimg.com/474x/86/7b/7a/867b7aa1042849e15eaaf96e73f76e9f.jpg');
+    background-image: url('wanita.jpg');
 }
 
 .heart {
